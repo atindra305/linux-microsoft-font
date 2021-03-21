@@ -13,4 +13,4 @@ sudo fc-cache -f -v
 
 ----------------------------------------------------------------
 
-Check Libre Office or MS Word on Linux and you will see the Times New Roman font is now available.
+Check Libre Office or MS Word on Linux and you will see the Microsoft Fonts (example: Times New Roman) font is now available.
